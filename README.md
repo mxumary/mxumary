@@ -1,6 +1,6 @@
 - 🤍 Hi, I’m Mary!
 - ✨ I’m interested in creating actionable insights for a more equitable future
-- 🌱 I’m currently learning data analysis + machine learning + getting better at object-oriented programming when I have the time
+- 🌱 I’m currently learning about data lakes, data warehouses, and ETL pipelines
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mxumary/">LinkedIn</a>
 
 <!---
