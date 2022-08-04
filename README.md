@@ -1,6 +1,7 @@
 - 🤍 Hi, I’m Mary!
 - ✨ I’m interested in creating actionable insights for a more equitable future
-- 🌱 I’m currently learning about data lakes, data warehouses, and ETL pipelines
+- 🌱 I’m currently learning about data lakes/data warehouses, ETL pipelines, and Python/Flask.
+- ✍🏻 Currently searching for a Summer 2023 internship in data science/data engineering, product management, or software engineering.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mxumary/">LinkedIn</a>
 
 <!---
