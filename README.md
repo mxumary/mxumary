@@ -1,6 +1,6 @@
-- 🤍 Hi, I’m Mary! I'm a junior at the University of Pennsylvania studying economics, statistics, and data science (graduating in May 2024).
-- ✨ I’m interested in creating actionable insights for a more equitable future
-- 🌱 I’m currently learning about data lakes/data warehouses, ETL pipelines, and Python/Flask.
+- 🤍 Hi, I’m Mary! I'm an incoming senior at the University of Pennsylvania studying business, statistics, and data science (graduating in May 2024).
+- ✨ I’m interested in understanding the intersection of human behavior and technology
+- 🌱 I’m currently learning about marketing funnels and customer segmentation.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mxumary/">LinkedIn</a>
 
 <!---
