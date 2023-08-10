@@ -1,4 +1,4 @@
-- 🤍 Hi, I’m Mary! I'm an incoming senior at the University of Pennsylvania studying business, statistics, and data science (graduating in May 2024).
+- 🤍 Hi, I’m Mary! I'm an incoming senior at the University of Pennsylvania studying business, statistics, and data science.
 - ✨ I’m interested in understanding the intersection of human behavior and technology
 - 🌱 I’m currently learning about marketing funnels and customer segmentation.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mxumary/">LinkedIn</a>
