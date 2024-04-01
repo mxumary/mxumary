@@ -1,6 +1,6 @@
 - 🤍 Hi, I’m Mary! I'm a senior at the University of Pennsylvania studying business, statistics, and data science
 - ✨ I’m interested in understanding the intersection of human behavior and technology
-- 🌱 I’m currently learning about marketing funnels and customer segmentation
+- 🌱 I’m currently learning about DBMS and ethical AI principles
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mxumary/">LinkedIn</a>
 
 <!---
